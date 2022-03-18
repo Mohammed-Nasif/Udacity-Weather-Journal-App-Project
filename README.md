@@ -96,7 +96,6 @@ or Clone it using GIT ````git clone````.
 
 #### The Project Contains :
 
-#### node_modules
 
 #### website /
 - Media Folder
@@ -108,13 +107,15 @@ or Clone it using GIT ````git clone````.
 
 #### package-lock.json
 
+#### .gitignore.txt
+
 ####  README.md
 
 ####  server.js
 
   
 ##### Each file contains it's modifications and comment above each step of modify.
-#### Don't make any modifications on Package.json or node_modules Folder.
+#### Don't make any modifications on Package.json or .gitignore.txt.
 
 - In CSS Style there is a lot of change done on the project to be the style you see on screen interface right now, also a lot of modifications to be responsive on all screen types.
 
