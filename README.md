@@ -81,7 +81,9 @@ or Clone it using GIT ````git clone````.
 
 - After The Installation you can now use the project files by UnZip the file and open it on any Code Text Editor (VS Code).
 
-- You Must First Start the ````server.js```` File in VS Terminal Using ````node server.js```` Command.
+- You Must First Install node_modules that Required in ````server.js```` File in VS Terminal Using ````npm i```` Command.
+
+- Then Start the ````server.js```` File in VS Terminal Using ````node server.js```` Command.
 
 - Now you can open the App on any browser using the localhost of Port: 3030. [http://localhost:3030/]
   
